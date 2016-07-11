@@ -58,7 +58,7 @@ html, body, .swiper-container, .swiper-slide {
     background: aquamarine;
 }
 .swiper-container .fir .bom_d a{opacity: 0;
-    color: #FFFFFF;
+    color: #000000;font-size: .2rem;
 }
 .swiper-container .fir .bom_a a,.bom_b a,.bom_c a,.bom_e a,.bom_f a,.bom_g a,.bom_h a{
    color: #000000;opacity: 0;
@@ -71,8 +71,9 @@ html, body, .swiper-container, .swiper-slide {
 
 }
 .swiper-container .fir  .bom_d img{
-    width: 2rem;
-    height: 2rem;
+    width: 2.7rem;
+    height: 2.7rem;
+    margin: -.21rem 0 0 -.2rem ;
 }
 .swiper-container .fir  .bom_d{ opacity: 0;
     position: absolute;
@@ -85,12 +86,12 @@ html, body, .swiper-container, .swiper-slide {
     border-radius: 50%;
 }
 .swiper-container .fir .bom_d a{
-    left: .28rem;
-    top: .2rem ;
+    left: .1rem;
+    top: .5rem ;
     position: absolute;
     line-height: .6rem;
     text-align: center;
-    font-size: .45rem;
+    font-size: .3rem;
 }
 .swiper-container .fir  .bom_a{ opacity: 0;
     position: absolute;
@@ -829,6 +830,7 @@ html, body, .swiper-container, .swiper-slide {
 
 
 .six .six_wx .fz div:nth-child(1) img,.six .six_wx .fz div:nth-child(3) img,.six .six_wx .fz div:nth-child(5) img,.six .six_wx .fz div:nth-child(7) img,.six .six_wx .fz div:nth-child(9) img,.six .six_wx .fz div:nth-child(11) img{
+
     -webkit-animation: musicMove 1s linear infinite both;
     animation: musicMove 1s linear infinite both;
 }

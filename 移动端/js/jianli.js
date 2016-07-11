@@ -20,6 +20,7 @@ function changeEnd(swiper) {
     [].forEach.call(slideAry, function (slide, index) {
         console.log(n)
         if (n === index) {
+
             if (n == 1) {
                 slide.id = 'fir'
             } else if (n == 2) {
@@ -32,6 +33,8 @@ function changeEnd(swiper) {
                 slide.id = "five"
             } else if (n == 6) {
                 slide.id = "six"
+            }else if (n == 0) {
+                slide.id = "fir"
             }
 
 
@@ -55,6 +58,7 @@ window.setTimeout(function () {
     musicAudio.addEventListener("canplay", function () {
         music.style.display = "block";
         music.className = "music move";
+
 
     }, false);
 }, 1000);
