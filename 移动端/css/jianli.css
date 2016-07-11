@@ -515,7 +515,7 @@ html, body, .swiper-container, .swiper-slide {
     /*-webkit-animation: bounceInRight 2s both;*/
     /*animation: bounceInRightn 2s both;*/
 }
-#foun ul li img{
+#foun ul li{
     -webkit-animation: bounceInRight 5s both;
     animation: bounceInRightn 5s both;
 }
@@ -547,7 +547,7 @@ html, body, .swiper-container, .swiper-slide {
     text-align: center;
     margin-top: .3rem;
 }
-.five .five_xm{opacity: 0;
+.five .five_xm{
     margin-left: 2.2rem;
     width: 3rem;
     height: 1rem;
@@ -742,7 +742,7 @@ html, body, .swiper-container, .swiper-slide {
 .six .six_wx .fz div:nth-child(5){
     width: 40%;
     height: 40%;
-    margin: -5.8rem 0 0 -1.1rem ;
+    margin: -5.6rem 0 0 -1.1rem ;
     z-index: 0;
     -webkit-transform: rotate( 5deg);
     transform: rotate( 5deg);
@@ -758,7 +758,7 @@ html, body, .swiper-container, .swiper-slide {
 .six .six_wx .fz div:nth-child(7){
     width: 35%;
     height: 35%;
-    margin: -7.5rem 0 0 2rem ;
+    margin: -7.6rem 0 0 2rem ;
     z-index: 0;
     -webkit-transform: rotate( 5deg);
     transform: rotate( 5deg);
@@ -766,7 +766,7 @@ html, body, .swiper-container, .swiper-slide {
 .six .six_wx .fz div:nth-child(8){
     width: 30%;
     height: 30%;
-    margin: -.4rem 0 0 2.1rem ;
+    margin: -.5rem 0 0 2.1rem ;
     z-index: 0;
     -webkit-transform: rotate( -40deg);
     transform: rotate( -40deg);
@@ -774,7 +774,7 @@ html, body, .swiper-container, .swiper-slide {
 .six .six_wx .fz div:nth-child(9){
     width: 40%;
     height: 40%;
-    margin: -7rem 0 0 3.1rem ;
+    margin: -6.8rem 0 0 3.1rem ;
     z-index: 0;
 
 }
