@@ -510,7 +510,7 @@ html, body, .swiper-container, .swiper-slide {
     margin: 2.3rem 0 1.59rem 4rem ;
 }
 #foun #fj img{
-    margin: -1.57rem 0 .68rem 0 ;
+    margin: -1.57rem 0 .74rem -0.02rem ;
     -webkit-transition: all 5s linear 0s;
     transition: all 5s linear 0s;
     /*-webkit-animation: bounceInRight 2s both;*/
